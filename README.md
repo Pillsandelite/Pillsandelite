@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pillsandelite
-- 👀 I’m interested in mobile developement
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on basics
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Data Storytelling
+- 💞️ I’m looking to collaborate on basic coding
 - 📫 How to reach me ezeadannalyn@gmail.com
 
 <!---
