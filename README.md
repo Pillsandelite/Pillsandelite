@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pillsandelite
+- 👋 Hi, I’m Adanna Eze @Pillsandelite
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Storytelling
 - 💞️ I’m looking to collaborate on basic coding
